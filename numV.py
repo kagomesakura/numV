@@ -1,4 +1,4 @@
-#print how many vowels occure in string
+#print how many vowels occur in string
 
 s = 'azcbobobegghakl'
 numV = 0
