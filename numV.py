@@ -8,4 +8,4 @@ for char in s:
         numV += 1
         # print(char)
 
-print('numV is: ' + str(numV))
+print('Number of vowels is: ' + str(numV))
